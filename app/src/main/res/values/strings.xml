@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDotmp</string>
+    <string name="naslov_zadatka_hint">Унесите име задатка.</string>
+    <string name="naslov_zadatka_labela">Наслов</string>
+    <string name="detalji_zadatka_labela">Детаљи</string>
+    <string name="zadatak_resen_labela">Решен</string>
+
+</resources>
